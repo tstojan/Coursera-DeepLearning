@@ -6,3 +6,5 @@ Deep Learning via Coursera (tasks and assignments)
 2. Hyperparameter Optimization and tunning
 
 3. Convolutional Neural Networks
+
+4. NLP Sequence Models
